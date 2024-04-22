@@ -1,0 +1,22 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "node app ",
+  "main": "assignment.js",
+  "scripts": {
+  "start": "node assignment.js"
+},
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "4.0"
+  },
+  "bugs": {
+  "url": ""
+},
+  "homepage": ""
+}
