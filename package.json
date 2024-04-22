@@ -1,10 +1,10 @@
 {
-  "name": "assignment",
+  "name": "assignment_extracredit",
   "version": "1.0.0",
   "description": "node app ",
-  "main": "assignment.js",
+  "main": "connecting.js",
   "scripts": {
-  "start": "node assignment.js"
+  "start": "node connecting.js"
 },
   "repository": {
   "type": "git",
